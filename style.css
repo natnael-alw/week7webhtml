@@ -1,0 +1,14 @@
+table{
+    width: 80%;
+    border-style: groove;
+    border-collapse: initial;
+    
+}
+
+tr{
+    background-color: rgb(189, 141, 141);
+ 
+}
+ td:hover{
+    background-color: rgb(28, 134, 133);
+ }
